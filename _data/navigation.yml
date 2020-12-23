@@ -1,12 +1,22 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "HOME"
+    url: https://heo02602.github.io/
+  - title: "ABOUT"
+    url: /about/
+  - title: "CAREER"
+    url: /career/
+  - title: "POSTS"
+    url: /_posts/
+  - title: "TALK"
+    url: /talktalk/
+
+# sidebar navigation list
+# sidebar:
+#   - title: "devstudy"
+#     url: /category/devstudy/
+#     children:
+#       title: " "
+#       url: 
