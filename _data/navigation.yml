@@ -5,7 +5,7 @@ main:
   - title: "HOME"
     url: https://heo02602.github.io/
   - title: "ABOUT"
-    url: /about/
+    url: /_posts/python.md
   - title: "CAREER"
     url: /career/
   - title: "POSTS"
